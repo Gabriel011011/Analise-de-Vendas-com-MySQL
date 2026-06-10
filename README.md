@@ -157,7 +157,8 @@ boas práticas em análise de dados
 
 👉 Todas as queries e lógica analítica foram desenvolvidas manualmente.
 
+<br>
 
-<h4>👨‍💻 Autor
+<h3>👨‍💻 Autor
 Gabriel Lima dos Santos
-Estudante de Dados | Foco em Análise de Dados</h4>
+Estudante de ADS | Foco em Análise de Dados</h3>
